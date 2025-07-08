@@ -45,22 +45,30 @@ This system simulates real-world dental center workflows. It includes:
 ###  Installation Steps
 
 # 1. Clone the repository
+```
 git clone https://github.com/shahnaz-git/ENTNT-Dental-Center-Assignment.git
-
+```
+```
 cd ENTNT-Dental-Center-Assignment
-
+```
 # 2. Install dependencies
+```
 npm install
+```
 
 # 3. Start the development server
+```
 npm run dev
+```
 
 # 4. Open in browser:
 arduino
+```
 http://localhost:5173
-
+```
 
 Project Architecture
+```
 src/
 ├── contexts/
 │   ├── AuthContext.js          # Authentication state management
@@ -85,7 +93,7 @@ src/
 ├── LoginPage.jsx               # Authentication component
 └── App.js                      # Main application component
 
-
+```
 
 
 State Management & Data Flow
@@ -135,6 +143,9 @@ Submission Details
 
 👩‍💻 Developed by
 Shahnaz Bano
+
 Software Developer
+
 GitHub: @shahnaz-git
 
+© 2025 Dental Center Management System 
